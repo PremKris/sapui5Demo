@@ -1,0 +1,16 @@
+{
+  "index.html": 1750325965310,
+  "ext/controller/Listpage.controller.js": 1750326370659,
+  "ext/controller/Controlpage.controller.js": 1750348208190,
+  "manifest.json": 1750326414223,
+  "Component.js": 1750325965310,
+  "Component-dbg.js": 1750325965310,
+  "Component.js.map": 1750398175725,
+  "ext/controller/Controlpage-dbg.controller.js": 1750348208190,
+  "ext/controller/Controlpage.controller.js.map": 1750398175729,
+  "ext/controller/Listpage-dbg.controller.js": 1750326370659,
+  "ext/controller/Listpage.controller.js.map": 1750398175727,
+  "Component-preload.js": 1750398175789,
+  "Component-preload.js.map": 1750398175790,
+  "i18n/i18n.properties": 1750325979198
+}
