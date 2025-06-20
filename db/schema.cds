@@ -12,3 +12,5 @@ entity Chapters {
   stock  : Integer;
   chaptersEntity : Association to Books on chaptersEntity.ID = ID;
 }
+
+// kkkkkkkkkkkkkkkkkkkkkkkkkk
